@@ -1,6 +1,6 @@
 import "./Hero.css";
 import heroImg from "../../assets/iphone-14-pro-on-white-background-front-view.jpg";
-import { FaApple } from "react-icons/fa";
+import { FaApple } from "react-icons/fa"; 
 import { IoChevronForwardOutline } from "react-icons/io5";
 
 const categories = [
@@ -64,3 +64,4 @@ export default function Hero() {
     </section>
   );
 }
+
